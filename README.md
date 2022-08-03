@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-This is an IBM python project for data science repository.
+This is a repository for "IBM python project for data science".
